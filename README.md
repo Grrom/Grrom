@@ -1,7 +1,5 @@
 
 
-Here are some ideas to get you started:
-
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:josejeromelalunio@gmail.com)
 
 ### Hello, I am Jose Jerome Lalunio 👋
