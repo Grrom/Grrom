@@ -17,10 +17,10 @@
 </table>
 
 #### My Neovim Setup 👍
-<img src="https://github.com/Grrom/Grrom/blob/main/neovim_setup.png"/>
+<img src="https://github.com/Grrom/Grrom/blob/main/nvim.png"/>
  
 #### My Manjaro KDE Setup 👍
-<img src="https://github.com/Grrom/Grrom/blob/main/manjaro_kde_setup.png"/>
+<img src="https://github.com/Grrom/Grrom/blob/main/manjaro.png"/>
 
  
 
