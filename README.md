@@ -17,7 +17,7 @@
 </table>
 
 #### My Neovim Setup 👍
-<img src="https://github.com/Grrom/Grrom/blob/main/nvim.png"/>
+<img src="https://github.com/Grrom/Grrom/blob/main/neovim.png"/>
  
 #### My Manjaro KDE Setup 👍
 <img src="https://github.com/Grrom/Grrom/blob/main/manjaro.png"/>
