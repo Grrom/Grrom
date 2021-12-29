@@ -18,12 +18,9 @@ I like to write code and customize my pc, but sometimes I sleep too
     <td valign="top"><img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Grrom&show_icons=true&theme=radical"/></td>
   </tr>
 </table>
-
-#### My Neovim Setup 👍
-<img src="https://github.com/Grrom/Grrom/blob/main/neovim.png"/>
  
-#### My Manjaro KDE Setup 👍
-<img src="https://github.com/Grrom/Grrom/blob/main/manjaro.png"/>
+#### My Rice 🍚
+<img src="https://github.com/Grrom/Grrom/blob/main/rice.png"/>
 
  
 
