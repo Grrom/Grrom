@@ -1,6 +1,4 @@
 
-
-
 ### Hello, I am Jose Jerome Lalunio 👋
 
 
@@ -31,7 +29,9 @@ I like to write code and customize my pc, but sometimes I sleep too.
 </p>
 
 <p align="center">
- <img height="300px" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif"></img>
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+  <img height="300px" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif"></img>
+ </a>
 </p>
 
 
