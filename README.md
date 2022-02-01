@@ -25,7 +25,9 @@ I like to write code and customize my pc, but sometimes I sleep too.
   </a>
 </p>
 <p align="center" style="text-align: center">
- <img src="https://activity-graph.herokuapp.com/graph?username=grrom&theme=react-dark" alt="drawing" width="800"/>
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+  <img src="https://activity-graph.herokuapp.com/graph?username=grrom&theme=react-dark" alt="drawing" width="800"/>
+ </a>
 </p>
 
 <p align="center">
