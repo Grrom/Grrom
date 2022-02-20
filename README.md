@@ -13,34 +13,34 @@ I like to write code and customize my pc, but sometimes I sleep too.
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=grrom&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=grrom&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
     />
   </a>
   <a href="https://github.com/grrom">
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=grrom&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=grrom&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight&hide_border=true"
     />
   </a>
 </p>
 
 <p align="center">
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=grrom&theme=tokyonight&hide_border=true" />
+  <img width="69.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=grrom&theme=tokyonight&hide_border=true" />
  </a>
 </p>
 
 <p align="center">
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-  <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+  <i>Random dev jokes</i><br>
+  <img align="center" src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="README Jokes">
  </a>
 </p>
 
 
 
-<p align="center" style="text-align: center">
+<p align="center">
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
   <img src="https://activity-graph.herokuapp.com/graph?username=grrom&theme=react-dark" alt="drawing" width="800"/>
  </a>
