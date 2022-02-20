@@ -40,7 +40,6 @@
 
 <p align="center">
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-  <i>Random dev jokes</i><br>
   <img align="center" src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="README Jokes">
  </a>
 </p>
