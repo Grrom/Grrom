@@ -34,12 +34,6 @@
 
 <p align="center">
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-  <img src="https://activity-graph.herokuapp.com/graph?username=grrom&color=70a5fd&hide_border=true&point=70a5fd&line=32a297&bg_color=1a1b27" alt="drawing" width="80%"/>
- </a>
-</p>
-
-<p align="center">
- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
   <img align="center" src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="README Jokes">
  </a>
 </p>
