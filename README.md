@@ -10,16 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=grrom&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-    />
-  </a>
-</p>
-
-<p align="center">
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=grrom&theme=tokyonight&hide_border=true" />
  </a>
