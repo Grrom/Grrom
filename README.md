@@ -4,7 +4,7 @@
 <p align="center">
 <h3 align="center">Hello, I am Jose Jerome Lalunio 👋</h3>
 
-<h5 align="center">I like to write code and customize my pc, but sometimes I sleep too.</h5>
+<h5 align="center">I like building stuff that provides value to people!</h5>
 
 
 </p>
