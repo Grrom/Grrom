@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<h3 align="center">Hello, I am Jose Jerome Lalunio 👋</h3>
+<h3 align="center">Hello 👋</h3>
 
 <h5 align="center">I like building stuff that provides value to people!</h5>
 
